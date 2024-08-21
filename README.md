@@ -1,2 +1,1 @@
-# Assignments-COMS228
-Repo containing source code for COMS 228 assignments
+This repository contains the source code for the assignments I completed as a part of COMS2280 (Introduction to Data Structures) during my time as a student at Iowa State University.
